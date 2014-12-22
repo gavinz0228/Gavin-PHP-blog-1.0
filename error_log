@@ -1,0 +1,245 @@
+[16-Jan-2014 05:42:49 UTC] PHP Warning:  include(../data/dbhelper.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:42:49 UTC] PHP Warning:  include(../data/dbhelper.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:42:49 UTC] PHP Warning:  include(): Failed opening '../data/dbhelper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:42:49 UTC] PHP Fatal error:  Class 'dbhelper' not found in /home/setupcoo/public_html/template/nav.php on line 3
+[16-Jan-2014 05:48:08 UTC] PHP Warning:  include(../data/dbhelper.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:48:08 UTC] PHP Warning:  include(../data/dbhelper.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:48:08 UTC] PHP Warning:  include(): Failed opening '../data/dbhelper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:48:08 UTC] PHP Fatal error:  Class 'dbhelper' not found in /home/setupcoo/public_html/template/nav.php on line 3
+[16-Jan-2014 05:48:12 UTC] PHP Warning:  include(../data/dbhelper.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:48:12 UTC] PHP Warning:  include(../data/dbhelper.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:48:12 UTC] PHP Warning:  include(): Failed opening '../data/dbhelper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 05:48:12 UTC] PHP Fatal error:  Class 'dbhelper' not found in /home/setupcoo/public_html/template/nav.php on line 3
+[16-Jan-2014 05:49:16 UTC] PHP Fatal error:  Call to undefined method dbhelper::connect() in /home/setupcoo/public_html/data/dbhelper.php on line 15
+[16-Jan-2014 05:49:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:50:50 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:50:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:51:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:51:48 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:52:35 UTC] PHP Warning:  mysql_connect(): Access denied for user 'gavin'@'localhost' (using password: YES) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:52:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'gavin'@'localhost' (using password: YES) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:52:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'gavin'@'localhost' (using password: YES) in /home/setupcoo/public_html/data/dbhelper.php on line 8
+[16-Jan-2014 05:56:09 UTC] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/index.php on line 2
+[16-Jan-2014 05:56:09 UTC] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/index.php on line 2
+[16-Jan-2014 05:56:09 UTC] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/index.php on line 2
+[16-Jan-2014 05:56:37 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/data/dbhelper.php on line 5
+[16-Jan-2014 05:57:12 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/data/dbhelper.php on line 4
+[16-Jan-2014 05:58:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 7
+[16-Jan-2014 06:00:09 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 7
+[16-Jan-2014 06:02:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 11
+[16-Jan-2014 06:02:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'setupcoo'@'localhost' (using password: NO) in /home/setupcoo/public_html/data/dbhelper.php on line 11
+[16-Jan-2014 16:40:27 UTC] PHP Fatal error:  Class 'category' not found in /home/setupcoo/public_html/template/nav.php on line 2
+[16-Jan-2014 16:41:32 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/setupcoo/public_html/data/category.php on line 2
+[16-Jan-2014 16:43:34 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/setupcoo/public_html/data/category.php on line 2
+[16-Jan-2014 16:43:37 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/setupcoo/public_html/data/category.php on line 2
+[16-Jan-2014 16:44:20 UTC] PHP Parse error:  syntax error, unexpected 'category' (T_STRING), expecting variable (T_VARIABLE) in /home/setupcoo/public_html/data/category.php on line 5
+[16-Jan-2014 16:45:47 UTC] PHP Parse error:  syntax error, unexpected 'getCategories' (T_STRING), expecting variable (T_VARIABLE) in /home/setupcoo/public_html/data/category.php on line 9
+[16-Jan-2014 16:46:13 UTC] PHP Strict Standards:  Non-static method dbhelper::query() should not be called statically, assuming $this from incompatible context in /home/setupcoo/public_html/data/category.php on line 11
+[16-Jan-2014 16:46:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 12
+[16-Jan-2014 16:48:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/setupcoo/public_html/data/category.php on line 11
+[16-Jan-2014 16:49:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 12
+[16-Jan-2014 16:52:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:52:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:53:47 UTC] PHP Warning:  mysqli::connect(): (42000/1044): Access denied for user 'setupcoo_gavin'@'localhost' to database 'setupcoo_blog' in /home/setupcoo/public_html/data/dbhelper.php on line 12
+[16-Jan-2014 16:54:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:54:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:56:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:57:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:58:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 16:59:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/data/category.php on line 13
+[16-Jan-2014 17:05:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/template/nav.php on line 6
+[16-Jan-2014 17:06:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/template/nav.php on line 6
+[16-Jan-2014 17:14:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/setupcoo/public_html/data/category.php on line 14
+[16-Jan-2014 17:14:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/setupcoo/public_html/data/category.php on line 14
+[16-Jan-2014 17:14:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/setupcoo/public_html/data/category.php on line 14
+[16-Jan-2014 17:14:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/setupcoo/public_html/data/category.php on line 14
+[16-Jan-2014 17:14:08 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/setupcoo/public_html/data/category.php on line 14
+[16-Jan-2014 17:14:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/template/nav.php on line 6
+[16-Jan-2014 17:51:46 UTC] PHP Parse error:  syntax error, unexpected '$filepath' (T_VARIABLE) in /home/setupcoo/public_html/_index.php on line 6
+[16-Jan-2014 17:52:15 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/data/dbhelper.php on line 3
+[16-Jan-2014 17:52:39 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/models/dbhelper.php on line 3
+[16-Jan-2014 17:52:40 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/models/dbhelper.php on line 3
+[16-Jan-2014 17:53:16 UTC] PHP Warning:  require(template/template.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/_index.php on line 7
+[16-Jan-2014 17:53:16 UTC] PHP Warning:  require(template/template.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/_index.php on line 7
+[16-Jan-2014 17:53:16 UTC] PHP Fatal error:  require(): Failed opening required 'template/template.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/_index.php on line 7
+[16-Jan-2014 17:53:27 UTC] PHP Warning:  require(template/template.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/_index.php on line 7
+[16-Jan-2014 17:53:27 UTC] PHP Warning:  require(template/template.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/_index.php on line 7
+[16-Jan-2014 17:53:27 UTC] PHP Fatal error:  require(): Failed opening required 'template/template.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/_index.php on line 7
+[16-Jan-2014 17:54:10 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/data/dbhelper.php on line 3
+[16-Jan-2014 17:54:23 UTC] PHP Fatal error:  Cannot redeclare class dbhelper in /home/setupcoo/public_html/data/dbhelper.php on line 3
+[16-Jan-2014 21:33:02 UTC] PHP Warning:  include(../template/nav.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 21
+[16-Jan-2014 21:33:02 UTC] PHP Warning:  include(../template/nav.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 21
+[16-Jan-2014 21:33:02 UTC] PHP Warning:  include(): Failed opening '../template/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/master.php on line 21
+[16-Jan-2014 21:33:02 UTC] PHP Warning:  include(../template/blog_category.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 25
+[16-Jan-2014 21:33:02 UTC] PHP Warning:  include(../template/blog_category.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 25
+[16-Jan-2014 21:33:02 UTC] PHP Warning:  include(): Failed opening '../template/blog_category.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/master.php on line 25
+[16-Jan-2014 21:51:01 UTC] PHP Warning:  require(models/bloginfo.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/home.php on line 4
+[16-Jan-2014 21:51:01 UTC] PHP Warning:  require(models/bloginfo.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/home.php on line 4
+[16-Jan-2014 21:51:01 UTC] PHP Fatal error:  require(): Failed opening required 'models/bloginfo.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/home.php on line 4
+[16-Jan-2014 21:51:37 UTC] PHP Fatal error:  Class 'blogInfo' not found in /home/setupcoo/public_html/home.php on line 8
+[16-Jan-2014 21:55:39 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/setupcoo/public_html/models/blogInfo.php on line 11
+[16-Jan-2014 21:58:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/setupcoo/public_html/models/blogInfo.php on line 11
+[16-Jan-2014 21:58:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/setupcoo/public_html/models/blogInfo.php on line 11
+[17-Jan-2014 00:57:39 UTC] PHP Fatal error:  Class 'blogList' not found in /home/setupcoo/public_html/blog_list.php on line 11
+[17-Jan-2014 00:58:23 UTC] PHP Warning:  require(models/blog_list.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/blog_list.php on line 4
+[17-Jan-2014 00:58:23 UTC] PHP Warning:  require(models/blog_list.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/blog_list.php on line 4
+[17-Jan-2014 00:58:23 UTC] PHP Fatal error:  require(): Failed opening required 'models/blog_list.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/blog_list.php on line 4
+[17-Jan-2014 00:58:49 UTC] PHP Warning:  Missing argument 1 for blogList::blogList(), called in /home/setupcoo/public_html/blog_list.php on line 11 and defined in /home/setupcoo/public_html/models/blogList.php on line 10
+[17-Jan-2014 00:58:49 UTC] PHP Warning:  Missing argument 2 for blogList::blogList(), called in /home/setupcoo/public_html/blog_list.php on line 11 and defined in /home/setupcoo/public_html/models/blogList.php on line 10
+[17-Jan-2014 00:58:49 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 16
+[17-Jan-2014 00:59:49 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 16
+[17-Jan-2014 01:01:08 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 17
+[17-Jan-2014 01:02:46 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 16
+[17-Jan-2014 01:02:47 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 16
+[17-Jan-2014 03:24:56 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/setupcoo/public_html/blog_list.php on line 17
+[17-Jan-2014 03:24:59 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/setupcoo/public_html/blog_list.php on line 17
+[17-Jan-2014 03:25:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/setupcoo/public_html/blog_list.php on line 20
+[17-Jan-2014 03:25:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 26
+[17-Jan-2014 03:34:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 27
+[17-Jan-2014 03:34:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 27
+[17-Jan-2014 15:09:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/category.php on line 23
+[17-Jan-2014 15:13:31 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:15:04 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:15:06 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:15:07 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:15:26 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:16:32 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:16:35 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:16:35 UTC] PHP Fatal error:  Cannot use object of type category as array in /home/setupcoo/public_html/template/blog_category.php on line 7
+[17-Jan-2014 15:36:40 UTC] PHP Fatal error:  Class 'articles' not found in /home/setupcoo/public_html/article.php on line 6
+[17-Jan-2014 15:37:39 UTC] PHP Fatal error:  Class 'articles' not found in /home/setupcoo/public_html/article.php on line 7
+[17-Jan-2014 15:37:40 UTC] PHP Fatal error:  Class 'articles' not found in /home/setupcoo/public_html/article.php on line 7
+[17-Jan-2014 15:37:40 UTC] PHP Fatal error:  Class 'articles' not found in /home/setupcoo/public_html/article.php on line 7
+[17-Jan-2014 15:37:40 UTC] PHP Fatal error:  Class 'articles' not found in /home/setupcoo/public_html/article.php on line 7
+[17-Jan-2014 15:38:04 UTC] PHP Fatal error:  Call to undefined method articles::getBlogById() in /home/setupcoo/public_html/article.php on line 9
+[17-Jan-2014 15:39:14 UTC] PHP Warning:  Missing argument 1 for articles::getArticleById(), called in /home/setupcoo/public_html/article.php on line 9 and defined in /home/setupcoo/public_html/models/articles.php on line 9
+[17-Jan-2014 15:42:54 UTC] PHP Fatal error:  Call to undefined function print_() in /home/setupcoo/public_html/article.php on line 9
+[17-Jan-2014 15:45:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/setupcoo/public_html/models/articles.php on line 15
+[17-Jan-2014 16:17:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:19:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:19:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:19:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:20:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:20:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:20:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:21:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:21:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 41
+[17-Jan-2014 16:28:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/blog_list.php on line 27
+[17-Jan-2014 16:36:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/blog_list.php on line 31
+[17-Jan-2014 16:36:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/blog_list.php on line 31
+[17-Jan-2014 16:38:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/setupcoo/public_html/blog_list.php on line 39
+[17-Jan-2014 19:33:00 UTC] PHP Fatal error:  Call to undefined function getHTML() in /home/setupcoo/public_html/blog_list.php on line 44
+[17-Jan-2014 19:38:52 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/setupcoo/public_html/models/pagination.php on line 17
+[17-Jan-2014 19:51:06 UTC] PHP Catchable fatal error:  Object of class blogList could not be converted to string in /home/setupcoo/public_html/models/blogList.php on line 23
+[17-Jan-2014 19:56:36 UTC] PHP Catchable fatal error:  Object of class blogList could not be converted to string in /home/setupcoo/public_html/models/blogList.php on line 21
+[17-Jan-2014 20:02:29 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/setupcoo/public_html/models/pagination.php on line 19
+[17-Jan-2014 20:03:00 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/setupcoo/public_html/models/pagination.php on line 19
+[17-Jan-2014 20:03:50 UTC] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/setupcoo/public_html/models/pagination.php on line 19
+[17-Jan-2014 20:04:01 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/setupcoo/public_html/models/pagination.php on line 19
+[17-Jan-2014 20:05:29 UTC] PHP Warning:  Missing argument 4 for pagination::pagination(), called in /home/setupcoo/public_html/blog_list.php on line 51 and defined in /home/setupcoo/public_html/models/pagination.php on line 9
+[17-Jan-2014 20:05:31 UTC] PHP Warning:  Missing argument 4 for pagination::pagination(), called in /home/setupcoo/public_html/blog_list.php on line 51 and defined in /home/setupcoo/public_html/models/pagination.php on line 9
+[17-Jan-2014 20:12:36 UTC] PHP Parse error:  syntax error, unexpected '"/"' (T_CONSTANT_ENCAPSED_STRING) in /home/setupcoo/public_html/models/pagination.php on line 21
+[17-Jan-2014 20:12:37 UTC] PHP Parse error:  syntax error, unexpected '"/"' (T_CONSTANT_ENCAPSED_STRING) in /home/setupcoo/public_html/models/pagination.php on line 21
+[17-Jan-2014 20:16:50 UTC] PHP Parse error:  syntax error, unexpected 'pagination' (T_STRING) in /home/setupcoo/public_html/models/pagination.php on line 21
+[17-Jan-2014 20:17:02 UTC] PHP Parse error:  syntax error, unexpected 'pagination' (T_STRING) in /home/setupcoo/public_html/models/pagination.php on line 21
+[17-Jan-2014 20:17:05 UTC] PHP Parse error:  syntax error, unexpected 'pagination' (T_STRING) in /home/setupcoo/public_html/models/pagination.php on line 21
+[17-Jan-2014 20:49:42 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/setupcoo/public_html/template/blog_category.php on line 6
+[17-Jan-2014 20:51:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 45
+[17-Jan-2014 20:53:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 45
+[17-Jan-2014 20:53:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 45
+[17-Jan-2014 20:53:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 45
+[17-Jan-2014 20:59:44 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 19
+[17-Jan-2014 21:00:14 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 19
+[17-Jan-2014 21:00:15 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 19
+[17-Jan-2014 21:00:16 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 19
+[17-Jan-2014 21:00:57 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/setupcoo/public_html/models/blogList.php on line 19
+[18-Jan-2014 16:31:16 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/setupcoo/public_html/contact.php on line 25
+[19-Jan-2014 05:11:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/setupcoo/public_html/article.php on line 7
+[19-Jan-2014 05:12:13 UTC] PHP Fatal error:  Class 'comments' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:12:55 UTC] PHP Fatal error:  Class 'comments' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:12:56 UTC] PHP Fatal error:  Class 'comments' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:13:20 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:13:43 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:14:29 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:15:21 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:15:22 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:15:24 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:16:21 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/article.php on line 16
+[19-Jan-2014 05:16:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 42
+[19-Jan-2014 05:17:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 38
+[19-Jan-2014 05:19:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:19:26 UTC] PHP Fatal error:  Call to undefined function query() in /home/setupcoo/public_html/models/comment.php on line 17
+[19-Jan-2014 05:20:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:21:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:21:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:22:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 36
+[19-Jan-2014 05:22:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 35
+[19-Jan-2014 05:23:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:23:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:23:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:25:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:25:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:26:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:26:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 05:27:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/setupcoo/public_html/models/comment.php on line 35
+[19-Jan-2014 06:00:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 06:00:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/setupcoo/public_html/models/comment.php on line 37
+[19-Jan-2014 20:40:01 UTC] PHP Warning:  include(template/blog_comment.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 25
+[19-Jan-2014 20:40:01 UTC] PHP Warning:  include(template/blog_comment.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 25
+[19-Jan-2014 20:40:01 UTC] PHP Warning:  include(): Failed opening 'template/blog_comment.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/master.php on line 25
+[20-Jan-2014 03:31:13 UTC] PHP Fatal error:  Call to undefined method comment::getComments() in /home/setupcoo/public_html/template/blog_comments.php on line 3
+[20-Jan-2014 03:37:56 UTC] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/setupcoo/public_html/models/comment.php on line 14
+[20-Jan-2014 03:38:30 UTC] PHP Fatal error:  Cannot use object of type comment as array in /home/setupcoo/public_html/template/blog_comments.php on line 7
+[20-Jan-2014 03:39:39 UTC] PHP Fatal error:  Cannot use object of type comment as array in /home/setupcoo/public_html/template/blog_comments.php on line 7
+[20-Jan-2014 03:40:13 UTC] PHP Fatal error:  Cannot use object of type comment as array in /home/setupcoo/public_html/template/blog_comments.php on line 7
+[20-Jan-2014 03:40:59 UTC] PHP Fatal error:  Cannot use object of type comment as array in /home/setupcoo/public_html/template/blog_comments.php on line 7
+[20-Jan-2014 03:41:02 UTC] PHP Fatal error:  Cannot use object of type comment as array in /home/setupcoo/public_html/template/blog_comments.php on line 7
+[20-Jan-2014 03:41:25 UTC] PHP Fatal error:  Cannot use object of type comment as array in /home/setupcoo/public_html/template/blog_comments.php on line 7
+[20-Jan-2014 03:49:05 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 03:49:20 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 03:49:23 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 03:49:25 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 03:49:25 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 03:49:25 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 03:50:25 UTC] PHP Warning:  require(models/comments.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/index.php on line 5
+[20-Jan-2014 03:50:25 UTC] PHP Warning:  require(models/comments.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/index.php on line 5
+[20-Jan-2014 03:50:25 UTC] PHP Fatal error:  require(): Failed opening required 'models/comments.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/index.php on line 5
+[20-Jan-2014 04:01:06 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 04:01:20 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 04:01:22 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 04:01:23 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[20-Jan-2014 04:01:29 UTC] PHP Fatal error:  Class 'comment' not found in /home/setupcoo/public_html/template/blog_comments.php on line 2
+[22-Jan-2014 16:07:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/setupcoo/public_html/admin.php on line 5
+[22-Jan-2014 16:13:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/setupcoo/public_html/admin.php on line 19
+[22-Jan-2014 16:14:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/setupcoo/public_html/admin.php:4) in /home/setupcoo/public_html/admin.php on line 14
+[22-Jan-2014 19:53:10 UTC] PHP Parse error:  syntax error, unexpected '$info' (T_VARIABLE) in /home/setupcoo/public_html/edit_index.php on line 5
+[22-Jan-2014 19:54:03 UTC] PHP Parse error:  syntax error, unexpected '$info' (T_VARIABLE) in /home/setupcoo/public_html/edit_index.php on line 5
+[22-Jan-2014 19:54:33 UTC] PHP Fatal error:  Call to a member function saveBlogInfo() on a non-object in /home/setupcoo/public_html/edit_index.php on line 11
+[22-Jan-2014 20:36:42 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/setupcoo/public_html/models/dbhelper.php on line 33
+[22-Jan-2014 20:49:30 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/setupcoo/public_html/models/dbhelper.php on line 44
+[22-Jan-2014 21:05:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/models/comment.php on line 26
+[22-Jan-2014 21:05:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/setupcoo/public_html/models/comment.php:26) in /home/setupcoo/public_html/template/master.php on line 2
+[22-Jan-2014 21:07:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/setupcoo/public_html/models/comment.php on line 26
+[22-Jan-2014 21:07:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/setupcoo/public_html/models/comment.php:26) in /home/setupcoo/public_html/template/master.php on line 2
+[22-Jan-2014 21:08:24 UTC] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE), expecting function (T_FUNCTION) in /home/setupcoo/public_html/models/comment.php on line 36
+[22-Jan-2014 21:08:25 UTC] PHP Parse error:  syntax error, unexpected '$html' (T_VARIABLE), expecting function (T_FUNCTION) in /home/setupcoo/public_html/models/comment.php on line 36
+[22-Jan-2014 21:20:30 UTC] PHP Fatal error:  Cannot access empty property in /home/setupcoo/public_html/models/blogInfo.php on line 21
+[23-Jan-2014 01:35:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/setupcoo/public_html/admin.php:4) in /home/setupcoo/public_html/admin.php on line 14
+[23-Jan-2014 02:01:14 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/setupcoo/public_html/edit_article.php on line 49
+[23-Jan-2014 02:06:09 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/setupcoo/public_html/edit_article.php on line 49
+[23-Jan-2014 02:10:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/setupcoo/public_html/edit_article.php on line 19
+[23-Jan-2014 02:10:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/setupcoo/public_html/edit_article.php on line 19
+[23-Jan-2014 02:28:01 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/setupcoo/public_html/edit_article.php on line 29
+[23-Jan-2014 04:01:21 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/setupcoo/public_html/edit_article.php on line 39
+[23-Jan-2014 04:25:43 UTC] PHP Fatal error:  Call to a member function updateArticle() on a non-object in /home/setupcoo/public_html/edit_article.php on line 41
+[23-Jan-2014 04:27:00 UTC] PHP Fatal error:  Call to a member function updateArticle() on a non-object in /home/setupcoo/public_html/edit_article.php on line 41
+[23-Jan-2014 17:39:43 UTC] PHP Fatal error:  Cannot redeclare class category in /home/setupcoo/public_html/models/category.php on line 3
+[23-Jan-2014 17:40:37 UTC] PHP Warning:  require(template/blog_catrgory.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 30
+[23-Jan-2014 17:40:37 UTC] PHP Warning:  require(template/blog_catrgory.php): failed to open stream: No such file or directory in /home/setupcoo/public_html/template/master.php on line 30
+[23-Jan-2014 17:40:37 UTC] PHP Fatal error:  require(): Failed opening required 'template/blog_catrgory.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/setupcoo/public_html/template/master.php on line 30
+[23-Jan-2014 17:51:29 UTC] PHP Parse error:  syntax error, unexpected '$blogcate' (T_VARIABLE) in /home/setupcoo/public_html/template/blog_category.php on line 12
+[23-Jan-2014 20:00:32 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/setupcoo/public_html/edit_category.php on line 37
+[23-Jan-2014 20:32:19 UTC] PHP Parse error:  syntax error, unexpected 'ex' (T_STRING), expecting variable (T_VARIABLE) in /home/setupcoo/public_html/edit_category.php on line 17
+[23-Jan-2014 20:36:09 UTC] PHP Fatal error:  Call to undefined function ptrint_r() in /home/setupcoo/public_html/edit_category.php on line 32
+[23-Jan-2014 21:21:26 UTC] PHP Fatal error:  Class 'article' not found in /home/setupcoo/public_html/add_article.php on line 21
+[23-Jan-2014 21:41:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/setupcoo/public_html/edit_article.php on line 55

@@ -1,0 +1,51 @@
+#edit_bg
+{
+	
+	position:absolute;
+	z-index:4;
+	top:50px;
+	left:0px;
+	background-color:white;
+	opacity:0.95;
+	text-align:center;
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	transition:all 0.5s linear;
+}
+#edit_panel
+{
+	margin:0 auto;
+	width:700px;
+	height:100%;
+	background-color:white;
+	position:relative;
+	z-index:4;
+	display:none;
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	transition:all 0.5s linear;
+	-webkit-box-shadow: 5px 5px 5px grey;
+	border:1px grey solid;
+	box-shadow: 5px 5px 5px grey;
+	border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	
+}
+#close_panel
+{
+	display:none;
+	height: 30px;
+}
+#close_panel:hover
+{
+	background-color:grey;
+	cursor:pointer;
+	color:white;
+}
+.hl{
+	color:white;
+}
+.hl:hover
+{
+	color:#A2E650;
+}

@@ -1,0 +1,9 @@
+RewriteEngine on  
+RewriteBase /
+RewriteRule ^m/?$ m/index.php [NC,L]
+RewriteRule ^([a-z|_]+)/?$ $1.php [NC,L]
+RewriteRule ^blog_list/([0-9]+)/?$ blog_list.php?&page=$1 [NC,L]
+RewriteRule ^([a-z|_]+)/type/([0-9]+)/([0-9]+)/?$ $1.php?typeid=$2&page=$3 [NC,L]
+RewriteRule ^([a-z|_]+)/([0-9]+)/?$ $1.php?id=$2 [NC,L]
+RewriteRule ^([a-z|_]+)/type/([0-9]+)/?$ $1.php?typeid=$2 [NC,L]
+
